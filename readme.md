@@ -19,3 +19,5 @@ Dit is een Python GUI-applicatie waarmee je afbeeldingen kunt versleutelen en ve
 3. Selecteer een afbeelding (voor send).
 4. Klik op 'Start'.
 
+als je dit zelf wilt proberen download dan alleen de .bat en de GUI en voer eerst de .bat file uit
+
